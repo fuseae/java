@@ -26,6 +26,7 @@ public class Main {
             quarter = 2;
         } */
 
+        //qwe
         if(x>0) {
             if(y>0) quarter = 1;
             else quarter = 4;
